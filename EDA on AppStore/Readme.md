@@ -7,14 +7,9 @@ A brief EDA on the dataset of app store so as to understand the current app scen
 
 
 **langauges**: SQL <br>
-
-
-
 </br>
 **software**: SQLite
 <br>
-
-
 </br>
 **data sets**: kaggle
 

@@ -1,6 +1,11 @@
 # Exploratory Data Analysis on Apple Store
 A brief EDA on the dataset of app store so as to understand the current app scenario in reference to a new aspiring app developer acting as our stakeholder in this EDA.
 
+
+
+
+
+
 **langauges**: SQL
 **software**: SQLite
 **data sets**: kaggle
